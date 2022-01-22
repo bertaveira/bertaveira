@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bernardo Taveira</h1>
+<h3 align="center">A master student in the field of control and autonomous systems</h3>
 
-<!--
-**bertaveira/bertaveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Chalmers Formula Student](http://www.chalmersformulastudent.se/) developing the driverless systems
 
-Here are some ideas to get you started:
+- 🌱 I’m currently playing with **ROS2, Typescript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I love driving even though I focus most of my time in the development of driverless vehicles**
+
+<table border="0">
+ <tr>
+    <td><h3 align="left">Languages and Tools:</h3>
+    <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertaveira&show_icons=true&locale=en&layout=compact" alt="bertaveira" /></td>
+ </tr>
+</table>
+
+<table border="0">
+ <tr>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=bertaveira&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="bertaveira" /></td>
+    <td><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bernardo-taveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernardo-taveira" height="30" width="40" /></a>
+</p></td>
+ </tr>
+</table>

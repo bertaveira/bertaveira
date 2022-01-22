@@ -7,14 +7,11 @@
 
 - ⚡ Fun fact **I love driving even though I focus most of my time in the development of driverless vehicles**
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
-    <div style="display: inline-block;">
-    
-    </div>
-    <div style="display: inline-block;">.
+
+<div style="display: inline-block;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertaveira&show_icons=true&locale=en&layout=compact" alt="bertaveira" />
-    </div>
 </div>
+
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
     <div style="display: inline-block;">
